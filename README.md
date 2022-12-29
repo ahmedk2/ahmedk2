@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🔭 I have 3+ years of experience within application support and I am a beginner DevOps Engineer.
 
-👏🏾 I enjoy paying it forward which is why I volunteer with organizations like Black Boys Code to be a mentor and help youth with personal growth and learn about the tech industry.
+👏🏾 I enjoy paying it forward to my community. I volunteer with organizations like Black Boys Code to be a mentor and help youth with personal growth and learn about the tech industry.
 
 📫 How to reach me: https://ca.linkedin.com/in/khalid-ahmed1/
