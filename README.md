@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 👏🏾 I enjoy paying it forward to my community. I volunteer with organizations like Black Boys Code to be a mentor and help youth with personal growth and learn about the tech industry.
 
 📫 How to reach me: https://ca.linkedin.com/in/khalid-ahmed1/
+
+💻 Online portfolio website https://www.khalidahmedportfolio.com/
